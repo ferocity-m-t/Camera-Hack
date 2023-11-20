@@ -9,13 +9,13 @@ echo -e "\e[95m███╗
     echo""    
   echo -e $'\e[1;33m\e[0m\e[1;31m    ██████████\e[0m'"\e[1;37m██████████"'\e[1;33m\e[0m\e[0;32m██████████\e[0m' '\e[1;32m\e[0m\e[1;32m Camera Hacking \e[0m''\e[1;37m\e[0m\e[1;37m [v 2.1] \e[0m'                                       
   echo ""
-   echo -e $'\e[1;33m\e[0m\e[1;33m  [\e[0m\e[1;32m Follow Github : \e[36mhttps://github.com/sir-sadeghi/CameraHack\e[0m \e[1;32m\e[0m\e[1;33m]\e[0m'
+   echo -e $'\e[1;33m\e[0m\e[1;33m  [\e[0m\e[1;32m Follow Github : \e[36mhttps://github.com/ferocity-m-t/Camera-Hack.git\e[0m \e[1;32m\e[0m\e[1;33m]\e[0m'
    echo ""
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m'
       echo -e "\e[93m    |f|e|r|o|c|i|t|y|"      
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m' 
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+ >>\e[0m'
-      echo -e "\e[95m    |M|A|M|M|D|"      
+      echo -e "\e[95m    |f|e|r|o|c|i|t|y|"      
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+ >>\e[0m' 
       echo "" 
 sleep 8
